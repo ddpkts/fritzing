@@ -1,0 +1,32 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=433_ds18b20
+*Date=22:17:01
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;1.06839;-1.24921;0;Bottom;TXT1
+2;;;6.99026;-21.6897;0;Bottom;TXT1
+3;;THT;1.6733;-21.7011;0;Bottom;J2
+4;;dip;5.4833;-11.5411;0;Bottom;U2
+5;;;5.53232;-11.6746;90;Bottom;TXT1
+6;;THT;6.7533;-18.5261;90;Bottom;U1
+7;;THT;9.2933;-21.7011;0;Bottom;J1
+8;;;8.56399;-2.67399;0;Bottom;TXT1
+9;4.7k;1206 [SMD];8.30338;-4.55609;0;Top;R1
+10;;;6.7532;-15.3511;0;Bottom;Via3
+11;;;9.874;-1.12785;0;Bottom;TXT1
+12;;;2.64771;-2.67399;0;Bottom;TXT1
+13;;;4.20501;-7.72665;0;Bottom;Via2
+14;;;3.93153;-21.6662;0;Bottom;TXT1
+15;;;5.48746;-1.20612;180;Bottom;DS2
+16;;;5.48546;-10.257;0;Bottom;Via4
+17;;1206 [SMD];2.66317;-4.55609;0;Top;LED1
