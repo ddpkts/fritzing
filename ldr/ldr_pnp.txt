@@ -1,0 +1,33 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=ldr
+*Date=15:21:27
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;1.75757;-8.8185;0;Bottom;TXT1
+2;;;4.32254;-0.730178;0;Bottom;TXT1
+3;;;4.27047;-0.661909;0;Bottom;TXT1
+4;50k;THT;9.89962;-7.34152;180;Bottom;R2
+5;;;1.6017;-8.76358;0;Bottom;TXT1
+6;;TO92 [THT];9.78882;-3.10291;0;Bottom;Q1
+7;;;1.76482;-0.569396;0;Bottom;TXT1
+8;3V;;3.00863;-3.21249;-90;Bottom;VCC2
+9;;photocell;17.1414;-2.87069;0;Bottom;R3
+10;;;4.56088;-8.86044;0;Bottom;TXT1
+11;;;9.86305;-8.85888;0;Bottom;TXT2
+12;;5 mm [THT];17.0008;-8.24962;180;Bottom;LED2
+13;;;4.46109;-8.85888;0;Bottom;TXT1
+14;;;9.89398;-1.1385;0;Bottom;TXT2
+15;;;16.9762;-8.83955;0;Bottom;TXT3
+16;;;17.1108;-1.04514;0;Bottom;TXT3
+17;;;1.71794;-0.545661;0;Bottom;TXT1
+18;3V;;3.05311;-7.10084;-90;Bottom;VCC1
